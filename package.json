@@ -1,5 +1,5 @@
 {
-  "name": "angular-4-data-table",
+  "name": "angular-4-data-table-aot",
   "version": "0.2.003",
   "description": "An Angular 4 data table, with pagination, sorting, expandable rows etc.",
   "keywords": [
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MIt9/angular-4-data-table.git"
+    "url": "git+https://github.com/adriangarzas/angular-4-data-table.git"
   },
   "author": "Dmitrii Bilukha <siniidrozd@gmail.com> (http://donsamogon.com)",
   "license": "MIT",
